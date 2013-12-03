@@ -1,0 +1,14 @@
+{
+  "trivia" : {
+    "url": "url",
+    "api_key" : "key",
+    "v" : 1
+  },
+
+  "quizmaster" : {
+    "url" : "127.0.0.1",
+    "username" : "username",
+    "password" : "password"
+  }
+
+}
